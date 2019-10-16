@@ -39,7 +39,6 @@ Echarts、D3、Highcharts、google charts、plotly、R/python 等
 * `date`、`year` 和 `month`: 标志该条记录的日期  
 * `state`: 州  
 * `number`: 森林火灾发生次数，每月上报一次    
-* 
 
 数据的前 6 行： 
 
