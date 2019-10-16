@@ -26,13 +26,34 @@ Echarts、D3、Highcharts、google charts、plotly、R/python 等
 
 ## 数据
 
-[数据来源](https://www.kaggle.com/gustavomodelli/forest-fires-in-brazil/downloads/forest-fires-in-brazil.zip/1)
+[数据来源](https://www.kaggle.com/gustavomodelli/forest-fires-in-brazil)
 
 （已经上载仓库）
 
 我选择的是 kaggle 上有关“巴西森林火灾”的数据，原因一是我对这个数据比较感兴趣；二是因为这个数据相对比较简单；三是因为这个数据的可操作性比较强。  
 
 
+
+该数据主要记录了 1997 - 2018 年间巴西 26 个州每个月森林火灾的发生次数，几个变量为：  
+
+* `date`、`year` 和 `month`: 标志该条记录的日期  
+* `state`: 州  
+* `number`: 森林火灾发生次数，每月上报一次    
+* 
+
+数据的前 6 行： 
+
+
+
+| year | state | month   | number | date       |
+| ---- | ----- | ------- | ------ | ---------- |
+| 1998 | Acre  | Janeiro | 0      | 1998-01-01 |
+| 2000 | Acre  | Janeiro | 0      | 2000-01-01 |
+| 2001 | Acre  | Janeiro | 0      | 2001-01-01 |
+| 2002 | Acre  | Janeiro | 0      | 2002-01-01 |
+| 2003 | Acre  | Janeiro | 10     | 2003-01-01 |
+| 2004 | Acre  | Janeiro | 0      | 2004-01-01 |
+|      |       |         |        |            |
 
 
 
