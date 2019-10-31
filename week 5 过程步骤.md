@@ -1,6 +1,7 @@
 # 过程步骤
 
 ## 数据来源 
+(存放在 `data/week 5` 文件夹下)
 
 环境省 http://www.env.go.jp/recycle/waste_tech/
 
@@ -69,13 +70,13 @@ Statista https://www.statista.com/
 
 找到自己想要的和有效的数据，并统一格式
 
-![](1.jpg)
+![](images/1.jpg)
 
-![](2.jpg)
+![](images/2.jpg)
 
-![](3.jpg)
+![](images/3.jpg)
 
-![](4.jpg)
+![](images/4.jpg)
 
  
 
@@ -84,7 +85,7 @@ Statista https://www.statista.com/
 在有效的数据中，计算出最能论证观点的结果。
 
  
-![](5.jpg)
+![](images/5.jpg)
 
 发电厂个数 / 垃圾焚烧厂个数=比例
 
@@ -92,9 +93,9 @@ Statista https://www.statista.com/
 
  
 
-![](6.jpg)
+![](images/6.jpg)
 
-![](7.jpg)
+![](images/7.jpg)
 
  
 分类汇总后得到日本各地区的平均处理量和平均焚烧量
@@ -102,7 +103,7 @@ Statista https://www.statista.com/
 平均焚烧量/平均处理量=比值
 
  
-![](8.jpg)
+![](images/8.jpg)
 
 
 再算发电效率的平均值(发电效率 = 3600(KJ ⁄ KWh) × 总发电量(KWh ⁄ 年) / 100(kg ⁄ h) × 垃圾焚烧量(t ⁄ 年) × 发电量(KJ ⁄ kg))
@@ -132,9 +133,9 @@ Statista https://www.statista.com/
 
 在中国的垃圾处理被pass掉之后，我选择的角度是**中国和日本垃圾焚烧的对比**，我已经查且处理好了数据。询问完老师之后，我自己又想了想，发现由于两个国家的发展历史、国情、处理现状完全不一样，所以两者真的没有什么可比性。我倾向于用数据对比的方式来强化输出自己的观点，但是有时候为了证明而证明其实并没有意义。
 
-![](9.jpg)
+![](images/9.jpg)
 
-![](10.jpg)
+![](images/10.jpg)
 
 ## 疑惑
 
