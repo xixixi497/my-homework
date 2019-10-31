@@ -34,7 +34,7 @@ https://public.tableau.com/profile/wangxixi#!/vizhome/Book1_15720839549490/Sheet
 
 纵观以上数据，虽然日本垃圾焚烧总量及相关技术已经全球领先，解决了“地少人多”、“拥有良好垃圾分类体制”的国家垃圾处理的难题。但焚烧后的能源利用效率面临一定瓶颈，新技术亟待发展，在这方面还需要走很长的路。
 
-
+[数据来源和创作过程](https://github.com/xixixi497/my-homework/blob/master/week%205.md)
 
 ------
 
