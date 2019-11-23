@@ -6,3 +6,5 @@
 [Week 5](https://github.com/xixixi497/my-homework/blob/master/week%205.md)   [过程步骤](https://github.com/xixixi497/my-homework/blob/master/week%205%20%E8%BF%87%E7%A8%8B%E6%AD%A5%E9%AA%A4.md  
 )  
 [Week 6](https://github.com/xixixi497/my-homework/blob/master/week%206.md)   [过程步骤](https://github.com/xixixi497/my-homework/blob/master/week%206%20%E8%BF%87%E7%A8%8B%E6%AD%A5%E9%AA%A4.md)  
+[Week 7](https://github.com/xixixi497/my-homework/blob/master/week%207.md)   
+[Week 8](https://github.com/xixixi497/my-homework/blob/master/week%208.md)  
