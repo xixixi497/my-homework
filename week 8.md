@@ -52,7 +52,7 @@ ggplot(data=minimum_age,mapping=aes(ymax=ymax,ymin=ymin,xmax=4,xmin=3,fill=age))
 
 ![](images/7_2.png)
 
-原图：
+原图(取整后再数值上有很小的差异)：
 
 ![](images/6_r_3.jpg)
 
