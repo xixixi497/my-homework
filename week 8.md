@@ -1,6 +1,6 @@
-Week 7  
+# Week 8 
 
-## Week3重做：面积图 
+## Week3重做：面积图和柱形图
 
 ```r
 ggplot(mapping=aes(year,maximum))+ 
@@ -21,6 +21,22 @@ ggplot(mapping=aes(year,maximum))+
 * 如何取消面积图底部与坐标轴的间隙  
 * 调整 x 轴的显示方法，使每个年份都能被显示  
 * 为 y 轴加上单位
+
+```r
+ggplot(aes(month, avg, fill = state)) + 
+  geom_col(position = "dodge") + 
+  scale_fill_brewer(palette = "Set1") + 
+  theme_classic()
+```
+
+![](images/7_4.png)
+
+原图：  
+
+![](images/4_excel_graph.jpg)
+
+问题：
+* 如何处理 x 轴上的标签重叠  
 
 ## Week5重做：柱形图和折线图
 
