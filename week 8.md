@@ -1,4 +1,26 @@
-Week 7
+Week 7  
+
+## Week3重做：面积图 
+
+```r
+ggplot(mapping=aes(year,maximum))+ 
+  geom_area(aes(fill=state))+ 
+  scale_fill_brewer(palette="Pastel2")+
+  theme_classic()+ 
+  labs(title="巴西三洲年森林火灾最大值",subtitle="1997 - 2017")
+```
+![](images/7_3.jpg)
+
+原图：   
+![](images/4_tableau_graph_1.jpg) 
+
+这次重新作图做了一定简化，没有按照五个地理区域汇总统计火灾最大值，而是随机选取了三个洲，之后画出面积图。比较大的收获是掌握了 R Graphics Cookbook 中使用 `scale_fill_brewer()` 调色板函数的方法。  
+
+目前仍存在的问题有：
+
+* 如何取消面积图底部与坐标轴的间隙  
+* 调整 x 轴的显示方法，使每个年份都能被显示  
+* 为 y 轴加上单位
 
 ## Week5重做：柱形图和折线图
 
