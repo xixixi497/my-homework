@@ -67,6 +67,16 @@ p1+p2+plot_layout(ncol=1,heights=c(2.5,1))
 另外，因为 ggplot2 好像不支持双坐标轴，我就想用另一种方式将柱形图和折线图结合在一起。最后搜索到了 patchwork 这个包，可以用一种很简单的方法组合 ggplot2 生成的图形，但不能直接输出图形，而是要将 ggplot2 的输出存储在某个变量里，再用加好连接不同的图形变量，最后用`plot_layout()` 调整相对大小。
 
 
+```
+library(plotrix)
+twoord.plot(lx=data$year,rx=data$year,ly=data$total,ry=data$efficiency,type=c("bar","line"),lcol="steelblue",rcol="navy",lylim=c(0,14))
+```
+
+![](images/7_5.png)
+
+原图：  
+
+![](images/5_efficiency.png)
 
 
 
